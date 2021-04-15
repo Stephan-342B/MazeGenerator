@@ -18,16 +18,22 @@ In my case, I've implemented min-heap using an array (Dynamic array) instead of 
 
 ## Screenshots
 ### Create matrix
-<img align="left" width="350" height="350" src="./resources/draw-in-progress.png" alt="Drawing in progress">
-<img align="right" width="350" height="350" src="./resources/draw.png" alt="Drawing done">
+<p align="center">
+  <img width="350" height="350" src="./resources/draw-in-progress.png" />
+  <img width="350" height="350" src="./resources/draw.png" />
+</p>
 
 ### Generate maze
-<img align="left" width="350" height="350" src="./resources/generate-maze-in-progress.png" alt="Generating maze in progress">
-<img align="right" width="350" height="350" src="./resources/generate-maze-in-progress.png2.png" alt="Maze generator done">
+<p align="center">
+  <img width="350" height="350" src="./resources/generate-maze-in-progress.png" />
+  <img width="350" height="350" src="./resources/generate-maze-in-progress.png2.png" />
+</p>
 
 ### Solve
-<img align="left" width="350" height="350" src="./resources/solve-in-progress.png" alt="Solving in progress">
-<img align="right" width="350" height="350" src="./resources/solved-maze.png" alt="Solving done">
+<p align="center">
+  <img width="350" height="350" src="./resources/solve-in-progress.png" />
+  <img width="350" height="350" src="./resources/solved-maze.png" />
+</p>
 
 ## Go further
 Implementing different path finding algorithm such as BFS, DFS, et cetera  
